@@ -48,5 +48,5 @@ $ ./matrix multiply m1 m2
 114	140
 ```
 ### Creation Purpose
-This script was created as an assignment for an Operating Systems I class
+This script was created as an assignment for an Operating Systems I class.
 
