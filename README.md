@@ -1,7 +1,7 @@
 # Matrix-Math
 
 ## Synopsis
-This bash script takes matrices as file and performs different mathmatical operations on them. This is created solely using bash commands so awk and bc, basically anything which would be beneficial for this script is off the table.
+This bash script takes matrices as file and performs different mathmatical operations on them. This is created solely using bash commands so awk and bc, basically anything which would be beneficial for this script, is off the table.
 
 ### Operations
 *Dims:* returns the dimensions of the given matrix.  
